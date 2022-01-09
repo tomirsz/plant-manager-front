@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-color: #5d5c61;
+}
+
+.paper {
+  width: 50%;
+  margin: 0 auto;
+  padding: 50px;
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.form-group {
+  margin: 10px auto;
+}
+
+.form-control {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.logo-img-card {
+  width: 25%;
+  margin: 0 auto;
+}
+.btnContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.btnContainer Button {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-right: 5px;
+  margin-left: 5px;
+}
